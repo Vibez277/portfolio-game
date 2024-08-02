@@ -1,0 +1,3 @@
+.cell{
+  @apply border-[1px] border-lines w-full h-full;
+}
